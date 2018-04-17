@@ -1,0 +1,44 @@
+body{
+	background-color: #89ABE0;
+}
+.bg-light{
+  background-color: #627BA1!important;
+}
+.dropdown-menu{
+  background-color: #89ABE0;
+}
+.title{
+	text-align: center;
+	padding: 20px;
+}
+.col-sm{
+  text-align: center;
+}
+.btn-primary{
+  margin-top: 15px;
+}
+.table{
+  color: black;
+}
+.col{
+  text-align: center;
+}
+.table-dark{
+  background-color: #4A5E7A;
+}
+.card{
+  border: none;
+}
+.card-header{
+  background-color: #627BA1;
+}
+.btn-link{
+  color: black;
+}
+.card-body{
+  background-color: #89ABE0;
+}
+.img-thumbnail{
+  max-width: 150px;
+  max-height: 150px;
+}
